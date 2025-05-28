@@ -51,4 +51,7 @@ Doctors & Staff: to understand patient flow and optimize care delivery
 Policy Makers: to analyze trends and plan future strategies
 Data Enthusiasts: to explore Power BI capabilities in healthcare analytics
 
+![patient care analysis](https://github.com/user-attachments/assets/d9df9f2d-61c5-43b6-9515-ba9b27782ae3)
 
+![re![disease analysis](https://github.com/user-attachments/assets/9130ca09-6cf5-47b1-9f77-46ffb61d163a)
+port healthcare](https://github.com/user-attachments/assets/8c5a4aee-5cb4-4d05-988d-e867f2fc4788)
