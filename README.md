@@ -53,5 +53,8 @@ Data Enthusiasts: to explore Power BI capabilities in healthcare analytics
 
 ![patient care analysis](https://github.com/user-attachments/assets/d9df9f2d-61c5-43b6-9515-ba9b27782ae3)
 
-![re![disease analysis](https://github.com/user-attachments/assets/9130ca09-6cf5-47b1-9f77-46ffb61d163a)
-port healthcare](https://github.com/user-attachments/assets/8c5a4aee-5cb4-4d05-988d-e867f2fc4788)
+![disease analysis](https://github.com/user-attachments/assets/f5df449c-35e0-432f-9fed-6bbec9fb57c7)
+
+![report healthcare](https://github.com/user-attachments/assets/b7df0404-407e-4df3-9476-c3fa09b1c2da)
+
+
